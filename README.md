@@ -1,12 +1,6 @@
 # Base de Dados de Fake News
 
-<div style="background-color: black; display: flex; justify-content: center; align-items: center; height: 20vh;">
-    <h1 style="margin-top: 28px;">
-        <span style="border: 5px solid red; padding: 10px; font-size: 48px; color: red; font-family: 'Brush Script MT', cursive; transform:">
-            <strong>Fake</strong> <span style="color: blue;">News</span>
-        </span>
-    </h1>
-</div>
+Versão em Português | [English Version](README.en.md)
 
 ## Descrição 
 
