@@ -51,7 +51,7 @@ Das classificações, foram escolhidas trabalhar com reivindicações que fossem
 
 ## Formato
 
-O conjunto de dados está disponível em formato CSV e pode ser baixado [aqui](dados/filtrados/refined_dataset/dataset.csv).
+O conjunto de dados está disponível em formato CSV e pode ser obtido [aqui](dados/filtrados/refined_dataset/dataset.csv).
 
 ## Processamento
 
